@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@types/google.maps": "^3.53.6",
+    "node-gyp": "^9.4.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^5.1.6"
+  }
+}
